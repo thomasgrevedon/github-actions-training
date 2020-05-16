@@ -1,1 +1,2 @@
-prit('Hello World 4')
+print('Hello World 4')
+prit('Hello, nice to meet you')
